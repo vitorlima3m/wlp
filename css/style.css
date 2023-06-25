@@ -358,6 +358,7 @@ i{
     height: 100%;
     width: 100%;
     transition: 0.4s;
+    padding-top: 1rem;
 }
 
 #mobile-navbar a {
@@ -388,8 +389,6 @@ i{
     right: 0;
 
 }
-
-
 
 /* RESPONSIVIDADE */
 
@@ -507,7 +506,7 @@ i{
     #navbar {
         display: none;
     }
-    #menu {
+    #menu,#close-menu {
         display: block;
     }
 
